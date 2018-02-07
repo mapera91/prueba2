@@ -1,0 +1,15 @@
+h1 {
+    font-weight: bolder;
+    color: darkcyan;
+    text-align: center;
+}
+
+p {
+    color: #3f3f3f;
+    font-size: 18px;
+}
+
+.clase {
+    font-weight: bolder;
+    color: darkred;
+}
